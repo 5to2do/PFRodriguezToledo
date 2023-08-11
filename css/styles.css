@@ -248,6 +248,10 @@ main {
   margin: 2rem 0;
 }
 
+.list-article {
+  list-style: circle;
+}
+
 .galeria-principal-container {
   display: flex;
   flex-direction: column;
